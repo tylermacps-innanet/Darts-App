@@ -1,0 +1,10 @@
+{
+  "name": "bullseye-darts-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mobile-first dashboard for the Bullseye soft-tip darts community.",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  }
+}
